@@ -9,8 +9,5 @@
         <module name="EyePlaySolitaire" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="EyePlaySolitaire" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
